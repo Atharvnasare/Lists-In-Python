@@ -1,9 +1,7 @@
+students= ["Atharv" , 99 , " Maharashtra" , "B-Tech" ]
 
-marks = [94.5 , 87.5 , 95.5 , 66.5 ,45.1 ]
+print(students[0])
 
-print(marks)
+students[0] =" Sahil "
 
-print(len(marks))
-
-print(marks[0])
-print(marks[3])
+print(students)
